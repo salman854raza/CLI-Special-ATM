@@ -1,0 +1,21 @@
+{
+  "name": "sal9-special-atm",
+  "version": "3.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "sal9-special-atm": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
